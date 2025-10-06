@@ -22,5 +22,3 @@ Users can create pixel art by clicking on a grid of cells, choosing colors, and 
 - JavaScript (Vanilla)  
 
 ---
-
-## 📂 Project Structure
