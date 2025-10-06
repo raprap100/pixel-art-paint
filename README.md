@@ -2,7 +2,7 @@
 View my project: https://raprap100.github.io/pixel-art-paint/
 
 A simple web-based pixel art drawing app built with **HTML**, **CSS**, and **JavaScript**.  
-Users can create pixel art by clicking on a grid of cells, choosing colors, and saving their artwork.
+Users can create pixel art by clicking on a grid of cells and choosing colors to paint a canvas with your selected length and width.
 
 > ⚠️ **Work In Progress** – This project is still under development. Some features (like button behaviors) may not work perfectly yet.
 
